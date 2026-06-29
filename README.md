@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Carl Matthew T. Arzadon, An upcoming Computer Engineering graduate (Expected July 2026).
 <!--
 **homusys/homusys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
