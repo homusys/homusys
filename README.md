@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Carl Matthew T. Arzadon, and I am a Computer Engineer.  
-Checkout my [website](https://homusys.github.io/personal-website/).
+Checkout my [website](https://homusys.github.io/personal-website/). [WIP]
 <!--
 **homusys/homusys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
