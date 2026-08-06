@@ -1,6 +1,15 @@
 ## Hi there 👋
-I'm Carl Matthew T. Arzadon, and I am a Computer Engineer.  
-Checkout my [website](https://homusys.github.io/personal-website/). [WIP]
+I'm Carl Matthew Arzadon, and I am a Computer Engineer.
+Checkout my [website](https://homusys.github.io/personal-website/).
+
+What I'm working on right now:
+  Currently planning to build a full-stack matchup-notes app for League of Legends 
+  players (React + Django REST Framework + PostgreSQL) as a solo project.
+
+  Also, actively developing my personal website + serverless blog app.
+
+What I'm currently learning:
+  - Full-stack development and technologies.
 <!--
 **homusys/homusys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
