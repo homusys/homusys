@@ -1,10 +1,11 @@
 ## Hi there 👋
-I'm Carl Matthew Arzadon, and I am a Computer Engineer.
+I'm Carl Matthew Arzadon, and I am a Computer Engineer. I am currently seeking opportunities 
+in software development where I can apply my skills and continue growing as a developer.
 Checkout my [website](https://homusys.github.io/personal-website/).
 
 ## What I'm working on right now:
-  Actively developing my personal website + serverless blog app.
-  Also, Studying React, Tailwind and other tools by building an online EDH multiplayer game. 
+  Currently in an internship and self studying full stack development while also
+  building personal projects.
 
 ## What I'm currently learning:
   - Full-stack development and technologies.
