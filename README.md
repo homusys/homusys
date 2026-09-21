@@ -4,11 +4,8 @@ in software development where I can apply my skills and continue growing as a de
 Checkout my [website](https://homusys.github.io/personal-website/).
 
 ## What I'm working on right now:
-  Currently in an internship and self studying full stack development while also
+  Currently self studying modern full stack development while also
   building personal projects.
-
-## What I'm currently learning:
-  - Full-stack development and technologies.
 <!--
 **homusys/homusys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
