@@ -5,7 +5,7 @@ Checkout my [website](https://homusys.github.io/personal-website/).
 
 ## What I'm working on right now:
   Currently self studying modern full stack development while also
-  building personal projects.
+  building personal projects in order to apply what I have learned.
 <!--
 **homusys/homusys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
