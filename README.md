@@ -1,12 +1,14 @@
 ## Hi there 👋
-I'm Carl Matthew Arzadon, and I am a Computer Engineer. I am currently seeking opportunities 
-in software development where I can apply my skills and continue growing as a developer.
+I'm Carl Matthew Arzadon, and I am a **Software Developer**.
+I am currently employed as a Full stack developer at a startup, 
+where I am continuously developing my skills and gaining experience
+in software development.
+
+I'm always interested in connecting with fellow developers and exploring opportunities to collaborate on interesting projects.
+Whether it's an open-source contribution, a side project, or sharing ideas, feel free to reach out!
+
 Checkout my [website](https://homusys.github.io/personal-website/).
 
-## What I'm working on right now:
-  Currently employed as a fullstack developer at a startup. Also,  
-  self studying modern full stack development and building personal
-  projects during my free time in order to apply what I have learned.
 <!--
 **homusys/homusys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
